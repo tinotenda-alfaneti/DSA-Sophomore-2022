@@ -1,3 +1,4 @@
+package DataStructures;
 public class BinaryTotal<T>{
 
 	private TreeNode<T> root;

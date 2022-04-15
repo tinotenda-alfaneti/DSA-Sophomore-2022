@@ -1,4 +1,4 @@
-
+package DataStructures;
 /**Implement a stack using an array */
 public class StackArray {
     

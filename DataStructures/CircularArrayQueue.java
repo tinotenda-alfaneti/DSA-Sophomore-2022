@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class CircularArrayQueue {
 
     int size = 0, front = -1, rear = -1;

@@ -1,3 +1,5 @@
+package DataStructures;
+
 /**Implementing a queue using stacks */
 
 import java.util.Stack;

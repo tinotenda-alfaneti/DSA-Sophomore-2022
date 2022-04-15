@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class ArrayQueue {
 
     private int CAPACITY = 10; 

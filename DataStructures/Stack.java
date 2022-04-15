@@ -1,3 +1,5 @@
+package DataStructures;
+
 /**
  The stack abstract data type implementation using linked list.
  This is achieved by using the removing first and adding on head primary methods of

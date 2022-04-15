@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class Factorial{
 
     int calculateFactorial(int n) {

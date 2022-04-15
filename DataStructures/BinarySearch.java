@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class BinarySearch {
 
     boolean binarySearch(int[] nums, int target, int low, int high) {
