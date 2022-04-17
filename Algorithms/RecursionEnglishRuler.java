@@ -1,3 +1,6 @@
+package Algorithms;
+
+
 public class RecursionEnglishRuler {
 
     public static void drawRuler(int nInches, int majorLength) {

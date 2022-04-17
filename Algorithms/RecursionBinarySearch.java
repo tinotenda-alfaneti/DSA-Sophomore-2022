@@ -1,3 +1,6 @@
+package Algorithms;
+
+
 public class RecursionBinarySearch {
 
 
