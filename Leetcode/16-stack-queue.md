@@ -2,7 +2,7 @@
 
 ## Easy
 - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode` DONE
 - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode` DONE
 - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
@@ -12,16 +12,16 @@
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
 - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
-- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode` DONE
 ## Medium
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode` DONE
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
-- [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
+- [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode` DONE
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
-- [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
+- [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode` DONE
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
 - [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
